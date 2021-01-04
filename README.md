@@ -1,16 +1,14 @@
-### Hi there 👋
+# Emanuele Oggiano 👋
 
-<!--
-**emanueleoggiano/emanueleoggiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/emanueleoggiano/emanueleoggiano.svg)](http://hits.dwyl.com/emanueleoggiano/emanueleoggiano)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am a student in High School
+* Learning everyday, currently learning C++
+* I am looking to improve my skills while coding
+* You can text me <a href="mailto:emanuele.oggiano.02@gmail.com">here</a>
+* My StackOverflow profile is <a href="https://stackoverflow.com/users/11121949/emanuele-oggiano">Emanuele Oggiano</a>
+
+
+### "There are no facts, only interpretations."
