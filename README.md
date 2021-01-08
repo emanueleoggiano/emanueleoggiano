@@ -1,6 +1,5 @@
 # Emanuele Oggiano 👋
 
-[![HitCount](http://hits.dwyl.com/emanueleoggiano/emanueleoggiano.svg)](http://hits.dwyl.com/emanueleoggiano/emanueleoggiano)
 
 ## About me
 
