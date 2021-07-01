@@ -3,7 +3,7 @@
 
 ## About me
 
-* I am a student in High School
+* Student
 * Learning everyday, currently learning C++
 * I am looking to improve my skills while coding
 * You can text me <a href="mailto:emanuele.oggiano.02@gmail.com">here</a>
