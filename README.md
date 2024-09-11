@@ -18,8 +18,11 @@ These are the exams I have taken up to now:
 - [x] __Computational Physics__
 - [x] __Fundamentals of Programming in Physics__ 
 - [x] __General Physics 1__
+- [x] __General Physics 2__
+- [x] __Classical Mechanics__
 - [x] __Physics Lab 1__
 - [x] __Physics Lab 2__ 
+- [x] __Physics Lab 3__
 
 
 ## My life as a gamer
